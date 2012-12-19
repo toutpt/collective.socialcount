@@ -1,0 +1,4 @@
+<layers>
+    <layer name="collective.socialcount"
+           interface="collective.socialcount.browser.interfaces.ILayer" />
+</layers>
